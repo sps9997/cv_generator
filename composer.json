@@ -1,0 +1,13 @@
+{
+    "name": "hp/cv_generator",
+    "description": "CV generator web app",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "PriTus"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^3.1"
+    }
+}
